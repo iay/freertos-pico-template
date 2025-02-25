@@ -1,0 +1,8 @@
+pico
+PICO
+Pico
+picotool
+DPICO
+ARGN
+uart
+UART
